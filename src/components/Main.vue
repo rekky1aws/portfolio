@@ -1,5 +1,6 @@
 <script setup>
 import Presentation from './sections/Presentation.vue'
+import Skills from './sections/Skills.vue'
 </script>
 
 <template>
