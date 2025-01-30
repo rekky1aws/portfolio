@@ -1,12 +1,10 @@
 <script setup>
-import Presentation from './sections/Presentation.vue'
-import Skills from './sections/Skills.vue'
+import About from './sections/About.vue'
 </script>
 
 <template>
 	<main class="m-5 flex gap-5">
-		<Presentation></Presentation>
-		<Skills></Skills>
+		<About></About>
 	</main>
 </template>
 
