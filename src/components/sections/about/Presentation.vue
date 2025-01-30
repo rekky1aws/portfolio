@@ -1,12 +1,14 @@
 <script setup>
-	
+	/*const myAge = new Date(Date.parse("2002-03-15"));*/
+	const myAge = new Date(Date.now() - Date.parse("2002-03-15")).getFullYear() - 1969;
+	console.log(Date.now(), Date.parse("2002-03-15"), myAge);
 </script>
 
 <template>
 	<article id="presentation">
 		<h6 class="text-xl underline">Présentation</h6>
 		<p class="py-2 indent-4 first-letter:text-2xl text-justify">
-			Je m'appelle Donatien, j'ai 23 ans et j'ai grandi avec internet donc je me suis assez vite intéressé à son fonctionnement. Cela m'a vraiment plus et c'est donc tout naturellement que j'ai voulu aller plus loin et que j'ai finalement décidé d'en faire mon métier. Comme je m'amusais à développer des petits jeux sur ma calculatrice du lycée, mon professeur de mathématiques de l'époque m'a conseiller de continuer dans cette voix, notamment en poussant plus loin l'algorithmique avec Python.
+			Je m'appelle Donatien, j'ai {{ myAge }} ans et j'ai grandi avec internet donc je me suis assez vite intéressé à son fonctionnement. Cela m'a vraiment plus et c'est donc tout naturellement que j'ai voulu aller plus loin et que j'ai finalement décidé d'en faire mon métier. Comme je m'amusais à développer des petits jeux sur ma calculatrice du lycée, mon professeur de mathématiques de l'époque m'a conseiller de continuer dans cette voix, notamment en poussant plus loin l'algorithmique avec Python.
 		</p>
 		<p class="pb-2 indent-4 text-justify">
 			Après le lycée, j'ai donc suivi un parcours d'informaticien et ai postulé pour une école d'ingénieur : l'IG2I. Et j'y ai été accepté ! Cependant, il y avait aussi de l'electricité industrielle au programme de cette formation et cela ne me plaisait pas autant, meme si je trouve cela intéressant d'avoir tenté. Après y avoir acquis de solide base en C puis surtout en HTML, CSS, JavaScript, PHP ou encore SQL, j'ai donc décidé de continuer en autodidacte sur ces technologies, le temps de pouvoir continuer à apprendre tout en cherchant une formation qui pourrait mieux me convenir. Formation que j'ai pu trouver par la suite chez POP School et ses formateurs avec qui j'ai pu découvrir et apprendre à maitriser Bootstrap, SASS, Tailwind, VueJS, Symfony.
