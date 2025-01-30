@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <section class="bg-[url(/banner.png)] bg-center h-96 w-full p-16 h-full flex flex-col gap-4">
+  <section class="bg-[url(/banner.png)] bg-no-repeat bg-center h-96 w-full p-16 h-full flex flex-col gap-4">
     <div class="flex flex-col gap-1 w-1/3">
       <h3 class="text-5xl font-bold">Hi, I'm Donatien !</h3>
       <h4 class="text-4xl" id="work">Full-Stack Developper</h4>
