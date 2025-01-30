@@ -3,8 +3,8 @@
 </script>
 
 <template>
-	<section id="skills">
-		<h3 class="text-xl underline">Skills</h3>
+	<article id="skills">
+		<h6 class="text-xl underline">Skills</h6>
 		<div class="grid grid-rows-4 grid-cols-3 gap-4">
 			<a href=""><img src=""></a>
 			<a href=""><img src=""></a>
@@ -15,7 +15,7 @@
 			<a href=""><img src=""></a>
 			<a href=""><img src=""></a>
 		</div>
-	</section>
+	</article>
 </template>
 
 <style>
