@@ -1,12 +1,13 @@
 # TODO
 
+ + Dark Mode
  + Add Icon
  + Translate page in english
 
  + Banner
  	+ Fix banner image when screen is larger
  
- + Header
+ + Header :
  	+ Language Selection
  	+ Nav
  		+ Links to the sections 
