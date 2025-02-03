@@ -6,7 +6,7 @@
 
 <template>
 	<article id="presentation">
-		<h6 class="text-xl underline">Présentation</h6>
+		<h6>Présentation</h6>
 		<p class="py-2 indent-4 first-letter:text-2xl text-justify">
 			Je m'appelle Donatien, j'ai {{ myAge }} ans et j'ai grandi avec internet donc je me suis assez vite intéressé à son fonctionnement. Cela m'a vraiment plus et c'est donc tout naturellement que j'ai voulu aller plus loin et que j'ai finalement décidé d'en faire mon métier. Comme je m'amusais à développer des petits jeux sur ma calculatrice du lycée, mon professeur de mathématiques de l'époque m'a conseiller de continuer dans cette voix, notamment en poussant plus loin l'algorithmique avec Python.
 		</p>

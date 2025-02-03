@@ -4,11 +4,11 @@ import Skills from './about/Skills.vue'
 </script>
 
 <template>
-	<SectionWrapper id="about" class="p-6 flex flex-col gap-6 2xl:w-2/5 xl:w-2/3 w-full">
-		<h5 class="text-center text-3xl font-bold">About Me</h5>
+	<section id="about">
+		<h5>About Me</h5>
 		<Presentation/>
 		<Skills/>
-	</SectionWrapper>
+	</section>
 </template>
 
 <style>

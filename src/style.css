@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+	section {
+		@apply p-6 flex flex-col gap-6 2xl:w-2/5 xl:w-2/3 w-full;
+	}
+
+	section > h5 {
+		@apply text-center text-3xl font-bold text-green-800;
+	}
+
+	section article h6 {
+		@apply text-xl underline
+	}
+}
