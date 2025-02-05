@@ -9,6 +9,7 @@
  
  + Header :
  	+ Language Selection
+ 	+ Dark / Light mode switch
  	+ Nav
  		+ Links to the sections 
  		+ Highlight the active section
