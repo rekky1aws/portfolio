@@ -12,6 +12,26 @@
 	}
 
 	section article h6 {
-		@apply text-xl underline
+		@apply text-xl underline;
+	}
+
+	.image-container {
+		@apply p-4 flex flex-col gap-4 justify-center items-center opacity-80;
+	}
+
+	.image-container:hover {
+		@apply opacity-100;
+	}
+
+	.image-container span {
+		@apply text-xl font-bold;
+	}
+
+	.hover-tilt {
+		@apply ease-in-out duration-200;
+	}
+
+	.hover-tilt:hover {
+		transform: rotate(5deg) scale(1.1);
 	}
 }
