@@ -16,3 +16,4 @@
 
  + Skills :
  	+ Add links to projects for every skill.
+ 	+ Make images smaller
