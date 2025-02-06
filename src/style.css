@@ -27,6 +27,10 @@
 		@apply text-xl font-bold;
 	}
 
+	.image-container img {
+		@apply aspect-square object-contain;
+	}
+
 	.hover-tilt {
 		@apply ease-in-out duration-200;
 	}
