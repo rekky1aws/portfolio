@@ -13,3 +13,6 @@
  	+ Nav
  		+ Links to the sections 
  		+ Highlight the active section
+
+ + Skills :
+ 	+	Change all images to make them squared to align the text
