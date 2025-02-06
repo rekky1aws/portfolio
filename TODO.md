@@ -15,4 +15,4 @@
  		+ Highlight the active section
 
  + Skills :
- 	+	Change all images to make them squared to align the text
+ 	+ Add links to projects for every skill.
