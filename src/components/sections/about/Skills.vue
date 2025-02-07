@@ -43,16 +43,16 @@
 				<span>VueJS</span>
 			</a>
 			<a class="image-container hover-tilt" href="">
-				<img src="/skills/bash.png" alt="BASH">
-				<span>BASH</span>
-			</a>
-			<a class="image-container hover-tilt" href="">
 				<img src="/skills/apache.png" alt="Apache">
 				<span>Apache</span>
 			</a>
 			<a class="image-container hover-tilt" href="">
-				<img src="/skills/c.png" alt="C">
-				<span>C</span>
+				<img src="/skills/bash.png" alt="BASH">
+				<span>BASH</span>
+			</a>
+			<a class="image-container hover-tilt" href="">
+				<img src="/skills/nodejs.png" alt="NodeJS">
+				<span>NodeJS</span>
 			</a>
 		</div>
 	</article>
