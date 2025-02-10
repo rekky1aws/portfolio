@@ -13,6 +13,7 @@
  	+ Nav
  		+ Links to the sections 
  		+ Highlight the active section
+ 		+ Burger Menu on smaller devices
 
  + Skills :
  	+ Add links to projects for every skill.
