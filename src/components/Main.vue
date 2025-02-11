@@ -7,8 +7,8 @@ import Services from './sections/Services.vue'
 <template>
 	<main class="m-5 flex flex-col justify-center items-center gap-5">
 		<About></About>
-		<Projects></Projects>
 		<Services></Services>
+		<Projects></Projects>
 	</main>
 </template>
 
