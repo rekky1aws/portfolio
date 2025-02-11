@@ -5,7 +5,7 @@
 <template>
 	<article id="skills">
 		<h6>Skills</h6>
-		<div class="grid grid-rows-4 grid-cols-3 gap-4 2xl:grid-rows-3 2xl:grid-cols-4">
+		<div class="grid grid-rows-4 grid-cols-3 gap-4 2xl:grid-rows-3 2xl:grid-cols-4 2xl:max-h-[50vh] 2xl:gap-8">
 			<a class="image-container hover-tilt 2xl:order-1" href="">
 				<img src="/skills/html5.png" alt="HTML5">
 				<span>HTML5</span>
