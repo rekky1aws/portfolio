@@ -2,6 +2,7 @@
 import About from './sections/About.vue'
 import Projects from './sections/Projects.vue'
 import Services from './sections/Services.vue'
+import Contact from './sections/Contact.vue'
 </script>
 
 <template>
@@ -9,6 +10,7 @@ import Services from './sections/Services.vue'
 		<About></About>
 		<Services></Services>
 		<Projects></Projects>
+		<Contact></Contact>
 	</main>
 </template>
 
