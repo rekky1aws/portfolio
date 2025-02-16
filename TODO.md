@@ -24,12 +24,12 @@
  + Contact
  	+ Form for automatic mail
  	+ Informations
- 		+ Mail
- 		+ Phone
- 		+ Socials
+ 		+ Socials (+ add Icons)
  			+ Linkedin
+ 				+ Post more
  			+ GitHub
  			+ BlueSky
+ 				+ Create Account and post
 
  + Credits
  	+ Technologies used to make this
