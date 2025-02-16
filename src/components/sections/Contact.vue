@@ -19,8 +19,9 @@
 			<span>FR 62160, Bully-les-Mines</span>
 		</article>
 		<article>
-			<div>GitHub :</div>
-			<a href="https://github.com/rekky1aws" target="_blank">github.com/rekky1aws</a>
+			<div>Socials :</div>
+			<a href="https://github.com/rekky1aws" target="_blank"><img src=""></a><!-- GITHUB LOGO -->
+			<a href="https://www.linkedin.com/in/donatien-hochart/" target="_blank"><img src=""></a><!-- LINKEDIN LOGO -->
 		</article>
 	</section>
 </template>
