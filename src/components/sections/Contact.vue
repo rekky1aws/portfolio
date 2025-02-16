@@ -11,12 +11,16 @@
 		</article>
 		<article>
 			<div>E-Mail :</div>
-			<span>donatienhochart2@gmail.com</span>
+			<a href="mailto:donatienhochart2@gmail.com">donatienhochart2@gmail.com</a>
 		</article>
 		<article>
 			<div>Address :</div>
 			<span>39 rue Marot,</span>
 			<span>FR 62160, Bully-les-Mines</span>
+		</article>
+		<article>
+			<div>GitHub :</div>
+			<a href="https://github.com/rekky1aws" target="_blank">github.com/rekky1aws</a>
 		</article>
 	</section>
 </template>
