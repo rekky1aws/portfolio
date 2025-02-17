@@ -38,4 +38,8 @@
 	.hover-tilt:hover {
 		transform: rotate(5deg) scale(1.1);
 	}
+
+	#contact article {
+		@apply flex flex-col items-center gap-2
+	}
 }
