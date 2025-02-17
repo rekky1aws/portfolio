@@ -24,10 +24,10 @@
 			<article>
 				<div>Socials :</div>
 				<div class="flex gap-4">
-					<a href="https://github.com/rekky1aws" target="_blank">
+					<a href="https://github.com/rekky1aws" target="_blank" class="hover-tilt">
 						<img src="/socials/github.png" alt="GitHub" class="w-10 h-10">
 					</a>
-					<a href="https://www.linkedin.com/in/donatien-hochart/" target="_blank">
+					<a href="https://www.linkedin.com/in/donatien-hochart/" target="_blank" class="hover-tilt">
 						<img src="/socials/linkedin.png" alt="Linkedin" class="w-10 h-10">
 					</a>
 				</div>
