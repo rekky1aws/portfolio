@@ -14,11 +14,11 @@
 				<img src="/skills/css3.png" alt="CSS3">
 				<span>CSS3</span>
 			</a>
-			<a class="image-container 2xl:order-9" href="" v-motion-roll-and-tilt>
+			<a class="image-container 2xl:order-9" href="https://github.com/rekky1aws/wii-menu-recreation" v-motion-roll-and-tilt>
 				<img src="/skills/javascript.png" alt="JavaScript">
 				<span>JavaScript</span>
 			</a>
-			<a class="image-container 2xl:order-2" href="" v-motion-roll-and-tilt>
+			<a class="image-container 2xl:order-2" href="https://github.com/rekky1aws/isaac_daily_tracker" v-motion-roll-and-tilt>
 				<img src="/skills/php.png" alt="PHP">
 				<span>PHP</span>
 			</a>
@@ -30,15 +30,15 @@
 				<img src="/skills/ts.png" alt="TypeScript">
 				<span>TypeScript</span>
 			</a>
-			<a class="image-container 2xl:order-3" href="" v-motion-roll-and-tilt>
+			<a class="image-container 2xl:order-3" href="https://github.com/rekky1aws/triple_drain" v-motion-roll-and-tilt>
 				<img src="/skills/symfony.png" alt="Symfony">
 				<span>Symfony</span>
 			</a>
-			<a class="image-container 2xl:order-7" href="" v-motion-roll-and-tilt>
+			<a class="image-container 2xl:order-7" href="https://github.com/rekky1aws/portfolio" v-motion-roll-and-tilt>
 				<img src="/skills/tailwind.png" alt="TailwindCSS">
 				<span>TailwindCSS</span>
 			</a>
-			<a class="image-container 2xl:order-11" href="" v-motion-roll-and-tilt>
+			<a class="image-container 2xl:order-11" href="https://github.com/rekky1aws/portfolio" v-motion-roll-and-tilt>
 				<img src="/skills/vuejs.png" alt="VueJS">
 				<span>VueJS</span>
 			</a>
@@ -50,7 +50,7 @@
 				<img src="/skills/bash.png" alt="BASH">
 				<span>BASH</span>
 			</a>
-			<a class="image-container 2xl:order-12" href="" v-motion-roll-and-tilt>
+			<a class="image-container 2xl:order-12" href="https://github.com/rekky1aws/portfolio" v-motion-roll-and-tilt>
 				<img src="/skills/nodejs.png" alt="NodeJS">
 				<span>NodeJS</span>
 			</a>
