@@ -17,9 +17,15 @@
 
  + Skills :
  	+ Add links to projects for every skill.
- 	+ Make images smaller
+ 		+ HTML5
+ 		+ CSS3
+ 		+ SaSS
+ 		+ TypeScript
+ 		+ Apache
+ 		+ BASH
 
  + Projects
+ 	+ Add links to various project
 
  + Contact
  	+ Form for automatic mail
