@@ -4,7 +4,7 @@
 <template>
 	<section id="services">
 		<h5>Services</h5>
-		<div class="grid gap-6 grid-cols-3">
+		<div class="grid gap-6 grid-cols-3 items-start">
 			<article class="flex flex-col gap-2">
 				<h6 class="text-center">Online Storefront</h6>
 				<img src="">
