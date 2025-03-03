@@ -25,7 +25,9 @@
  		+ BASH
 
  + Projects
- 	+ Add links to various project
+ 	+ Triple Drain
+ 		+ logo
+ 		+ link
 
  + Contact
  	+ Form for automatic mail
