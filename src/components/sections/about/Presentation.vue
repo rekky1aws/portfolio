@@ -16,7 +16,7 @@
 		<p class="pb-2 indent-4 text-justify">
 			Aujourd'hui, je suis toujours autant, voir de plus en plus passionné par l'informatique et continue de mettre régulièrement en place des nouveaux projets personnels, alimentant mon compte GitHub par la même occasion. Et après avoir obtenu la même année mon permis B et mon Titre Professionnel de Développeur Web et Web Mobile, je suis désormais en recherche de missions dans ce domaine.
 		</p>
-		<p class="indent-4 text-justify">Bien sur, même si j'aime beaucoup le développement, je ne fais pas que cela. Et comme j'aime bien apprendre de nouvelles choses, je me suis mis à la guitare puis à la basse il y a quelques années, je dessine, fais de la musique via des logiciels, j'ai fait du rugby, je joue au flipper et surtout je lis beaucoup, autant des livres que des articles ou de la documentation sur internet.</p>
+		<p class="indent-4 text-justify">Bien sur, même si j'aime beaucoup le développement, je ne fais pas que cela. Et comme j'aime bien apprendre de nouvelles choses, je me suis mis à la guitare puis à la basse il y a quelques années, je dessine, fais de la musique via des logiciels, j'ai fait du rugby, je joue au flipper et surtout je lis beaucoup, autant des livres que des articles ou de la documentation sur internet. Je me suis aussi récemment lancé avec des amis dans le modélisme.</p>
 	</article>
 </template>
 
