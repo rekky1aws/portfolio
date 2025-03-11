@@ -1,4 +1,6 @@
 <script setup>
+const changingText = document.querySelector('#changing');
+
 </script>
 
 <template>
@@ -6,7 +8,9 @@
     <div class="h-96 p-16 h-full flex flex-col gap-4 w-full">
       <div class="flex flex-col gap-1">
         <h3 class="text-4xl lg:text-5xl font-bold">Hi, I'm Donatien !</h3>
-        <h4 class="text-3xl lg:text-4xl" id="work">Full-Stack Developper</h4>
+        <h4 class="text-3xl lg:text-4xl" id="work">
+          <span id="changing" class="text-green-900">Full-Stack</span> Developper
+        </h4>
       </div>
       <div class="text-xs italic sm:text-sm md:text-base w-1/3">  
         <p>
