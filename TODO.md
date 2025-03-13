@@ -3,6 +3,10 @@
  + Dark Mode
  + Add Icon
  + Translate page in english
+ + Router
+	+ Auto redirect from `/` to `/en`
+	+ French.vue import components
+	+ English.vue import components
 
  + Banner
  	+ Fix banner image when screen is larger
