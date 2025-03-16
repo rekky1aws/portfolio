@@ -1,22 +1,9 @@
 import { createApp } from 'vue';
+import router from './router'
 import App from './App.vue';
 import { MotionPlugin } from '@vueuse/motion';
 
-import { createMemoryHistory, createRouter } from 'vue-router';
-import French from './components/French.vue';
-import English from './components/English.vue';
-
 import './style.css';
-
-const routes = [
-	{ path: '/fr', component: French },
-	{ path: '/en', component: English },
-  ];
-  
-  const router = createRouter({
-	history: createMemoryHistory(),
-	routes,
-  })
 
 const app = createApp(App);
 
