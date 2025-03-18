@@ -36,9 +36,6 @@
  	+ Form for automatic mail
  	+ Informations
  		+ Socials (+ add Icons)
- 			+ Linkedin
- 				+ Post more
- 			+ GitHub
  			+ BlueSky
  				+ Create Account and post
 
