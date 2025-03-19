@@ -2,10 +2,7 @@
 
  + Dark Mode
  + Add Icon
- + Translate page in english
- + Router
-	+ French.vue import components
-	+ English.vue import components
+ + Translate english element in french
 
  + Banner
  	+ Fix banner image when screen is larger
