@@ -1,5 +1,5 @@
 <script setup>
-import ServiceContainer from '../subcomponents/ServiceContainer.vue'
+import ServiceContainer from '../../common/subcomponents/ServiceContainer.vue'
 </script>
 
 <template>

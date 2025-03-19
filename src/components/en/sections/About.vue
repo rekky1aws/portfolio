@@ -5,7 +5,7 @@ import Skills from './about/Skills.vue'
 
 <template>
 	<section id="about">
-		<h5>About Me</h5>
+		<h5>A propos de moi</h5>
 		<Presentation/>
 		<Skills/>
 	</section>

@@ -1,7 +1,7 @@
 import { createMemoryHistory, createRouter } from 'vue-router';
 
-import French from './components/French.vue';
-import English from './components/English.vue';
+import French from './components/fr/Main.vue';
+import English from './components/en/Main.vue';
 import PickLanguage from './components/PickLanguage.vue';
 
 const routes = [

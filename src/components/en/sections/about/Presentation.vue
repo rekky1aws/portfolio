@@ -1,7 +1,6 @@
 <script setup>
 	/*const myAge = new Date(Date.parse("2002-03-15"));*/
 	const myAge = new Date(Date.now() - Date.parse("2002-03-15")).getFullYear() - 1970;
-	console.log(Date.now(), Date.parse("2002-03-15"), myAge);
 </script>
 
 <template>

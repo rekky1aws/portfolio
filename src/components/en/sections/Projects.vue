@@ -1,5 +1,5 @@
 <script setup>
-	import ProjectContainer from '../subcomponents/ProjectContainer.vue'
+	import ProjectContainer from '../../common/subcomponents/ProjectContainer.vue';
 </script>
 
 <template>
