@@ -6,7 +6,7 @@
 			<img src="/pp.jpg" class="size-16 rounded-full drop-shadow">
 			<div>
 				<h1 class="text-3xl">Donatien HOCHART</h1>
-				<h2 class="text-xl">Fullstack Web Developper</h2>
+				<h2 class="text-xl"><slot name="job-name">Fullstack Web Developer - not loaded</slot></h2>
 			</div>
 		</div>
 
