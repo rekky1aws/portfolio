@@ -3,6 +3,7 @@
  + Dark Mode
  + Add Icon
  + Translate english element in french
+ + DRY and move a maximum of elements in common
 
  + Banner
  	+ Fix banner image when screen is larger
