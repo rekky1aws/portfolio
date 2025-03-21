@@ -1,6 +1,6 @@
 <script setup>
 import Presentation from './about/Presentation.vue'
-import Skills from './about/Skills.vue'
+import Skills from '../../common/sections/about/Skills.vue'
 </script>
 
 <template>
