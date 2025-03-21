@@ -4,7 +4,7 @@ import Header from '../common/Header.vue';
 import About from './sections/About.vue'
 import Projects from './sections/Projects.vue'
 import Services from './sections/Services.vue'
-import Contact from './sections/Contact.vue'
+import Contact from '../common/sections/Contact.vue'
 </script>
 
 <template>
