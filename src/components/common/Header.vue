@@ -11,6 +11,9 @@
 		</div>
 
 		<nav>
+			<ul>
+				<li></li>
+			</ul>
 			<!-- List Section -->
 			<!-- Burger on smaller devices -->
 		</nav>
