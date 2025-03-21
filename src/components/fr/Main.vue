@@ -12,10 +12,10 @@ import Contact from '../common/sections/Contact.vue'
 		<template #job-name>Développeur Web Fullstack</template>
 	</Header>
 	<main class="m-5 flex flex-col justify-center items-center gap-5">
-		<About></About>
-		<Services></Services>
-		<Projects></Projects>
-		<Contact></Contact>
+		<About/>
+		<Services/>
+		<Projects/>
+		<Contact/>
 	</main>
 </template>
 
