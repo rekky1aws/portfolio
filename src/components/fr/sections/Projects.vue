@@ -4,10 +4,12 @@
 
 <template>
 	<section id="projects">
-		<h5>My Work</h5>
+		<h5>Mes projets</h5>
 		<div class="grid grid-cols-3">
 			<ProjectContainer name="Triple Drain" imgSrc="" link="">
-				<template #description>Triple Drain is a webapp to easily see scores from the main Zen Studios Pinball Games (Pinball FX and Pinball M) and process global rankings.</template>
+				<template #description>
+					Triple Drain est une application web regroupant les scores sur les jeux principaux de Flipper de Zen Studios (Pinball FX et Pinball M) afin de les consulter plus facilement et calculer un classement global.
+				</template>
 			</ProjectContainer>
 		</div>
 	</section>
