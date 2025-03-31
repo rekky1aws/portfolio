@@ -12,9 +12,10 @@
 					M) and process global rankings.
 				</template>
 			</ProjectContainer>
-			<ProjectContainer name="Wii Menu Recreation" imgSrc="" link="">
+			<ProjectContainer name="Wii Menu Recreation" imgSrc="" link="https://rekky1aws.github.io/wii-menu-recreation/">
 				<template #description>
-					It's basically where I have fun with HTML, CSS and JS (without any framework) coding small apps or games. Everytime I have a fun idea, I add it there.
+					It's basically where I have fun with HTML, CSS and JS (without any framework) coding small apps or games.
+					Everytime I have a fun idea, I add it there.
 				</template>
 			</ProjectContainer>
 		</div>

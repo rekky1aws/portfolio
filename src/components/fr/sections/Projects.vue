@@ -12,9 +12,10 @@
 					(Pinball FX et Pinball M) afin de les consulter plus facilement et calculer un classement global.
 				</template>
 			</ProjectContainer>
-			<ProjectContainer name="Wii Menu Recreation" imgSrc="" link="">
+			<ProjectContainer name="Wii Menu Recreation" imgSrc="" link="https://rekky1aws.github.io/wii-menu-recreation/">
 				<template #description>
-					C'est l'endroit ou je m'amuse à créer des petits jeux / petites expériences en HTML, CSS et JS uniquement (sans frameworks). Dès que j'ai une idée et un peu de temps, j'y rajoute quelque chose.
+					C'est l'endroit ou je m'amuse à créer des petits jeux / petites expériences en HTML, CSS et JS uniquement
+					(sans frameworks). Dès que j'ai une idée et un peu de temps, j'y rajoute quelque chose.
 				</template>
 			</ProjectContainer>
 		</div>
