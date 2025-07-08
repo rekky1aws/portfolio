@@ -15,9 +15,8 @@
 				<a href="mailto:donatienhochart2@gmail.com">donatienhochart2@gmail.com</a>
 			</article>
 			<article>
-				<div>Address :</div>
+				<div>Location :</div>
 				<div class="flex flex-col">
-					<span>39 rue Marot,</span>
 					<span>FR 62160, Bully-les-Mines</span>
 				</div>
 			</article>
