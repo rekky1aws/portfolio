@@ -8,7 +8,7 @@
 		<div class="grid grid-rows-2 grid-cols-2">
 			<article>
 				<div>Phone :</div>
-				<span>06 52 74 97 21</span>
+				<span>+33 6 52 74 97 21</span>
 			</article>
 			<article>
 				<div>E-Mail :</div>
